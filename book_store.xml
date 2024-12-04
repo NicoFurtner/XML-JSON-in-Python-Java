@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookstore>
+<!-- Gute Rezepte -->
+<book category="cooking">
+    <title lang="en">Everyday Italian</title>
+    <author>Giada De Laurentiis</author>
+    <year>2005</year>
+    <price>30.00</price>
+</book>
+
+<!-- Fiction Books -->
+<book category="fiction">
+    <title lang="en">The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <year>1925</year>
+    <price>15.00</price>
+</book>
+<book category="fiction">
+    <title lang="en">1984</title>
+    <author>George Orwell</author>
+    <year>1949</year>
+    <price>12.99</price>
+</book>
+<book category="fiction">
+    <title lang="en">To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <year>1960</year>
+    <price>18.50</price>
+</book>
+<book category="fiction">
+    <title lang="en">Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <year>1813</year>
+    <price>14.00</price>
+</book>
+<book category="fiction">
+    <title lang="en">Moby Dick</title>
+    <author>Herman Melville</author>
+    <year>1851</year>
+    <price>20.00</price>
+</book>
+<book category="fiction">
+    <title lang="en">The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <year>1951</year>
+    <price>16.99</price>
+</book>
+<book category="fiction">
+    <title lang="en">War and Peace</title>
+    <author>Leo Tolstoy</author>
+    <year>1869</year>
+    <price>22.50</price>
+</book>
+<book category="fiction">
+    <title lang="en">Crime and Punishment</title>
+    <author>Fyodor Dostoevsky</author>
+    <year>1866</year>
+    <price>18.00</price>
+</book>
+<book category="fiction">
+    <title lang="en">Brave New World</title>
+    <author>Aldous Huxley</author>
+    <year>1932</year>
+    <price>15.99</price>
+</book>
+<book category="fiction">
+    <title lang="en">The Hobbit</title>
+    <author>J.R.R. Tolkien</author>
+    <year>1937</year>
+    <price>20.00</price>
+</book>
+<book category="fiction">
+    <title lang="en">The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <year>1951</year>
+    <price>16.99</price>
+</book>
+<book category="fiction">
+    <title lang="en">The Grapes of Wrath</title>
+    <author>John Steinbeck</author>
+    <year>1939</year>
+    <price>18.99</price>
+</book>
+<book category="fiction">
+    <title lang="en">The Outsiders</title>
+    <author>S.E. Hinton</author>
+    <year>1967</year>
+    <price>12.50</price>
+</book>
+<book category="fiction">
+    <title lang="en">Fahrenheit 451</title>
+    <author>Ray Bradbury</author>
+    <year>1953</year>
+    <price>14.00</price>
+</book>
+<book category="fiction">
+    <title lang="en">The Shining</title>
+    <author>Stephen King</author>
+    <year>1977</year>
+    <price>18.00</price>
+</book>
+<book category="fiction">
+    <title lang="en">The Road</title>
+    <author>Cormac McCarthy</author>
+    <year>2006</year>
+    <price>16.50</price>
+</book>
+<book category="fiction">
+    <title lang="en">The Hobbit</title>
+    <author>J.R.R. Tolkien</author>
+    <year>1937</year>
+    <price>20.00</price>
+</book>
+<book category="fiction">
+    <title lang="en">The Secret Garden</title>
+    <author>Frances Hodgson Burnett</author>
+    <year>1911</year>
+    <price>12.00</price>
+</book>
+<book category="fiction">
+    <title lang="en">Wuthering Heights</title>
+    <author>Emily Brontë</author>
+    <year>1847</year>
+    <price>14.99</price>
+</book>
+
+<!-- History Books -->
+<book category="history">
+    <title lang="en">A People's History of the United States</title>
+    <author>Howard Zinn</author>
+    <year>1980</year>
+    <price>22.00</price>
+</book>
+<book category="history">
+    <title lang="en">The Diary of a Young Girl</title>
+    <author>Anne Frank</author>
+    <year>1947</year>
+    <price>14.95</price>
+</book>
+<book category="history">
+    <title lang="en">The History of the Ancient World</title>
+    <author>Susan Wise Bauer</author>
+    <year>2007</year>
+    <price>26.00</price>
+</book>
+<book category="history">
+    <title lang="en">Guns, Germs, and Steel</title>
+    <author>Jared Diamond</author>
+    <year>1997</year>
+    <price>18.95</price>
+</book>
+<book category="history">
+    <title lang="en">The Origins of Political Order</title>
+    <author>Francis Fukuyama</author>
+    <year>2011</year>
+    <price>28.50</price>
+</book>
+<book category="history">
+    <title lang="en">The Rise and Fall of the Third Reich</title>
+    <author>William L. Shirer</author>
+    <year>1960</year>
+    <price>28.99</price>
+</book>
+<book category="history">
+    <title lang="en">The Silk Roads</title>
+    <author>Peter Frankopan</author>
+    <year>2015</year>
+    <price>24.00</price>
+</book>
+<book category="history">
+    <title lang="en">The Guns of August</title>
+    <author>Barbara Tuchman</author>
+    <year>1962</year>
+    <price>18.00</price>
+</book>
+<book category="history">
+    <title lang="en">The History of the World in 6 Glasses</title>
+    <author>Tom Standage</author>
+    <year>2005</year>
+    <price>16.00</price>
+</book>
+<book category="history">
+    <title lang="en">The Birth of the Modern World</title>
+    <author>C.M. Andrews</author>
+    <year>2003</year>
+    <price>22.00</price>
+</book>
+<book category="history">
+    <title lang="en">History of Western Philosophy</title>
+    <author>Bertrand Russell</author>
+    <year>1945</year>
+    <price>35.00</price>
+</book>
+<book category="history">
+    <title lang="en">The Cold War</title>
+    <author>John Lewis Gaddis</author>
+    <year>2005</year>
+    <price>27.50</price>
+</book>
+<book category="history">
+    <title lang="en">The History of Rome</title>
+    <author>Michael Grant</author>
+    <year>1978</year>
+    <price>22.00</price>
+</book>
+<book category="history">
+    <title lang="en">A Short History of Nearly Everything</title>
+    <author>Bill Bryson</author>
+    <year>2003</year>
+    <price>18.99</price>
+</book>
+<book category="history">
+    <title lang="en">The World: A Brief Introduction</title>
+    <author>Richard Haass</author>
+    <year>2020</year>
+    <price>25.00</price>
+</book>
+<book category="history">
+    <title lang="en">The Romans</title>
+    <author>Anthony Everitt</author>
+    <year>2008</year>
+    <price>20.99</price>
+</book>
+
+<!-- Science Books -->
+<book category="science">
+    <title lang="en">A Brief History of Time</title>
+    <author>Stephen Hawking</author>
+    <year>1988</year>
+    <price>19.99</price>
+</book>
+<book category="science">
+    <title lang="en">The Selfish Gene</title>
+    <author>Richard Dawkins</author>
+    <year>1976</year>
+    <price>16.99</price>
+</book>
+<book category="science">
+    <title lang="en">Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <year>2011</year>
+    <price>25.00</price>
+</book>
+<book category="science">
+    <title lang="en">The Gene: An Intimate History</title>
+    <author>Siddhartha Mukherjee</author>
+    <year>2016</year>
+    <price>27.99</price>
+</book>
+<book category="science">
+    <title lang="en">The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <year>2010</year>
+    <price>17.50</price>
+</book>
+<book category="science">
+    <title lang="en">The Feynman Lectures on Physics</title>
+    <author>Richard P. Feynman</author>
+    <year>1964</year>
+    <price>40.00</price>
+</book>
+<book category="science">
+    <title lang="en">The Structure of Scientific Revolutions</title>
+    <author>Thomas S. Kuhn</author>
+    <year>1962</year>
+    <price>16.00</price>
+</book>
+<book category="science">
+    <title lang="en">Cosmos</title>
+    <author>Carl Sagan</author>
+    <year>1980</year>
+    <price>18.50</price>
+</book>
+<book category="science">
+    <title lang="en">The Double Helix</title>
+    <author>James D. Watson</author>
+    <year>1968</year>
+    <price>20.00</price>
+</book>
+<book category="science">
+    <title lang="en">The Man Who Knew Infinity</title>
+    <author>Robert Kanigel</author>
+    <year>1991</year>
+    <price>15.00</price>
+</book>
+<book category="science">
+    <title lang="en">The Emperor of All Maladies</title>
+    <author>Siddhartha Mukherjee</author>
+    <year>2010</year>
+    <price>25.00</price>
+</book>
+<book category="science">
+    <title lang="en">Einstein: His Life and Universe</title>
+    <author>Walter Isaacson</author>
+    <year>2007</year>
+    <price>30.00</price>
+</book>
+<book category="science">
+    <title lang="en">Astrophysics for People in a Hurry</title>
+    <author>Neil deGrasse Tyson</author>
+    <year>2017</year>
+    <price>16.50</price>
+</book>
+<book category="science">
+    <title lang="en">The Universe in a Nutshell</title>
+    <author>Stephen Hawking</author>
+    <year>2001</year>
+    <price>25.00</price>
+</book>
+<book category="science">
+    <title lang="en">The God Delusion</title>
+    <author>Richard Dawkins</author>
+    <year>2006</year>
+    <price>18.00</price>
+</book>
+
+<!-- Children Books -->
+<book category="children">
+    <title lang="en">Harry Potter and the Sorcerer's Stone</title>
+    <author>J.K. Rowling</author>
+    <year>1997</year>
+    <price>24.99</price>
+</book>
+<book category="children">
+    <title lang="en">The Very Hungry Caterpillar</title>
+    <author>Eric Carle</author>
+    <year>1969</year>
+    <price>8.99</price>
+</book>
+<book category="children">
+    <title lang="en">Charlotte's Web</title>
+    <author>E.B. White</author>
+    <year>1952</year>
+    <price>12.50</price>
+</book>
+<book category="children">
+    <title lang="en">Matilda</title>
+    <author>Roald Dahl</author>
+    <year>1988</year>
+    <price>10.99</price>
+</book>
+<book category="children">
+    <title lang="en">Where the Wild Things Are</title>
+    <author>Maurice Sendak</author>
+    <year>1963</year>
+    <price>9.99</price>
+</book>
+<book category="children">
+    <title lang="en">The Chronicles of Narnia</title>
+    <author>C.S. Lewis</author>
+    <year>1950</year>
+    <price>29.99</price>
+</book>
+<book category="children">
+    <title lang="en">Alice's Adventures in Wonderland</title>
+    <author>Lewis Carroll</author>
+    <year>1865</year>
+    <price>12.00</price>
+</book>
+<book category="children">
+    <title lang="en">Winnie the Pooh</title>
+    <author>A.A. Milne</author>
+    <year>1926</year>
+    <price>10.50</price>
+</book>
+<book category="children">
+    <title lang="en">Peter Pan</title>
+    <author>J.M. Barrie</author>
+    <year>1911</year>
+    <price>13.00</price>
+</book>
+<book category="children">
+    <title lang="en">The Wind in the Willows</title>
+    <author>Kenneth Grahame</author>
+    <year>1908</year>
+    <price>14.99</price>
+</book>
+</bookstore>
